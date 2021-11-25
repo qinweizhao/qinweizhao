@@ -8,7 +8,19 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qinweizhao&layout=compact&theme=radical)](https://github.com/qinweizhao)
+<table>
+    <tr>
+        <td>
+        <a href="https://github.com/anuraghazra/convoychat">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=qinweizhao&show_icons=true&theme=radical" />
+</a>
+        </td>
+        <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qinweizhao&layout=compact&theme=radical" />
+</a>
+        </td>
+    </tr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qinweizhao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</table>
 
